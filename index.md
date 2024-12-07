@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Regular Mushrooms"
 ---
 <div class="container">
