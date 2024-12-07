@@ -25,6 +25,7 @@ logo: "images/RegularMushroomsLogo.png" # path of site logo, e.g. "/images/logo.
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
+copyright: "Caffine and Hate"
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html

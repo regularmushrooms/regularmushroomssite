@@ -5,7 +5,7 @@ permalink: "/products/phoenix-oyster.md"
 excerpt: "Fresh and vibrant Phoenix Oyster mushrooms, perfect for culinary use or home cultivation."
 seo_title: "Buy Fresh Phoenix Oyster Mushrooms | Regular Mushrooms"
 seo_description: "Shop for premium phoenix oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
-categories: [Products, Mushrooms]
+categories: [Mushrooms]
 tags: [phoenix oyster mushrooms, fresh mushrooms, gourmet, cultivation]
 header_image: /images/phoenix-oyster.png
 ---
