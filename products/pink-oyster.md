@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Pink Oysters
-permalink: "/products/pink-oyster.md"
-excerpt: "Fresh and vibrant pink oyster mushrooms, perfect for culinary use or home cultivation."
-seo_title: "Buy Fresh Pink Oyster Mushrooms | Regular Mushrooms"
-seo_description: "Shop for premium pink oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
+permalink: "/products/pink-oyster"
+# excerpt: "Fresh and vibrant pink oyster mushrooms, perfect for culinary use or home cultivation."
+# seo_title: "Buy Fresh Pink Oyster Mushrooms | Regular Mushrooms"
+# seo_description: "Shop for premium pink oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
 categories: [Mushrooms]
 tags: [pink oyster mushrooms, fresh mushrooms, gourmet, cultivation]
-header_image: /images/pink-oyster.jpg
+link_image_path: /images/pink-oyster640x426.png
+link_image_name: pink-oyster640x426.png
 ---
 
 # Pink Oyster Mushrooms
+
+![pink-oyster.png](/images/pink-oyster.png)
 
 **Price**: $15.99 per pound  
 **Availability**: COMING SOON  
