@@ -91,7 +91,7 @@ defaults:
 
 # Site Author
 author: 
-  name: Oh Don Piano
+  # name: Oh Don Piano
   picture:
   email: info@regularmushrooms.com
   twitter:
