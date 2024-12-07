@@ -2,10 +2,10 @@
 layout: page
 title: Pink Oysters
 permalink: "/products/pink-oyster"
-# excerpt: "Fresh and vibrant pink oyster mushrooms, perfect for culinary use or home cultivation."
-# seo_title: "Buy Fresh Pink Oyster Mushrooms | Regular Mushrooms"
-# seo_description: "Shop for premium pink oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
-categories: [Mushrooms]
+excerpt: "Fresh and vibrant pink oyster mushrooms, perfect for culinary use or home cultivation."
+seo_title: "Buy Fresh Pink Oyster Mushrooms | Regular Mushrooms"
+seo_description: "Shop for premium pink oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
+categories: [Mushrooms, Products]
 tags: [pink oyster mushrooms, fresh mushrooms, gourmet, cultivation]
 link_image_path: /images/pink-oyster640x426.png
 link_image_name: pink-oyster640x426.png

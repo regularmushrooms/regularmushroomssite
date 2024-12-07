@@ -12,7 +12,7 @@ title: "Regular Mushrooms"
 
 <h2> Explore our featured products: </h2>
 
-{% assign mushroom_pages = site.pages | where: "categories", "Mushrooms" %}
+{% assign mushroom_pages = site.pages | where: "categories", "Products" %}
     <ul class="my_list">
     {% for page in mushroom_pages %}
     <!-- <div class="container"> -->

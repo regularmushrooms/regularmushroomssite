@@ -2,10 +2,10 @@
 layout: page
 title: Phoenix Oysters
 permalink: "/products/phoenix-oyster"
-# excerpt: "Fresh and vibrant Phoenix Oyster mushrooms, perfect for culinary use or home cultivation."
-# seo_title: "Buy Fresh Phoenix Oyster Mushrooms | Regular Mushrooms"
-# seo_description: "Shop for premium phoenix oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
-categories: [Mushrooms]
+excerpt: "Fresh and vibrant Phoenix Oyster mushrooms, perfect for culinary use or home cultivation."
+seo_title: "Buy Fresh Phoenix Oyster Mushrooms | Regular Mushrooms"
+seo_description: "Shop for premium phoenix oyster mushrooms. Fresh, vibrant, and perfect for cooking or growing at home."
+categories: [Mushrooms, Products]
 tags: [phoenix oyster mushrooms, fresh mushrooms, gourmet, cultivation]
 link_image_path: /images/phoenix-oyster640x426.png
 link_image_name: phoenix-oyster640x426.png
