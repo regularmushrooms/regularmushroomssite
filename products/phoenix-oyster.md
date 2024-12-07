@@ -51,7 +51,46 @@ Bring the gourmet experience home with our phoenix oyster mushrooms. Whether you
 
 <!-- **[Add to Cart](#)** -->
 
-<div id='product-component-1733600770769' class="cart_div"></div>
+<div style="
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  width: 259px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
+  " class="cart_div">
+    <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/9f2be6f4e5db53e370e97aef90d125fde3ae0b76/original.png" alt="Phoenix Oyster Mushroom" onerror="this.style.display='none'" style="width: 100%;">
+  <div style="padding: 20px;">
+      <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">Phoenix Oyster Mushroom</p>
+      <p style="
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+  ">$19.99</p>
+    <a target="_blank" href="https://square.link/u/lkk9qexa?src=embed" style="
+    display: inline-block;
+    font-size: 18px;
+    line-height: 48px;
+    height: 48px;
+    color: #ffffff;
+    min-width: 212px;
+    background-color: #006aff;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+    border-radius: 6px;
+  ">Buy now</a>
+  </div>
+</div>
+
+<!-- <div id='product-component-1733600770769' class="cart_div"></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -286,7 +325,7 @@ Bring the gourmet experience home with our phoenix oyster mushrooms. Whether you
   }
 })();
 /*]]>*/
-</script>
+</script> -->
 
 ---
 <!-- 
