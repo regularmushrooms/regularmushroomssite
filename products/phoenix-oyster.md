@@ -289,7 +289,7 @@ Bring the gourmet experience home with our phoenix oyster mushrooms. Whether you
 </script>
 
 ---
-
+<!-- 
 ### Customer Reviews
 > *"The phoenix oysters arrived fresh and smelled amazing! They added so much flavor to my soup."* – Amanda R.  
-> *"Great product for cultivation. Easy to grow and yielded a large harvest!"* – Michael D.  
+> *"Great product for cultivation. Easy to grow and yielded a large harvest!"* – Michael D.   -->

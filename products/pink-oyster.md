@@ -282,6 +282,6 @@ Click the **Add to Cart** button below and experience the magic of pink oyster m
 </script>
 ---
 
-### Customer Reviews
+<!-- ### Customer Reviews
 > *"Absolutely beautiful mushrooms. They arrived fresh and tasted amazing!"* – Sarah T.  
-> *"Grew my own with the kit and had a great yield. Highly recommend!"* – James L. 
+> *"Grew my own with the kit and had a great yield. Highly recommend!"* – James L.  -->
