@@ -13,9 +13,9 @@ link_image_name: phoenix-oyster640x426.png
 
 # Phoenix Oyster Mushrooms
 
-![phoenix-oyster.png](/images/phoenix-oyster.png)
+![phoenix-oyster.png](/images/phoenix-oyster.png){: .align-center}
 
-**Price**: $14.99 per pound  
+**Price**: $19.99 per pound  
 **Availability**: COMING SOON  
 **Shipping**: Local delivery ONLY
 
@@ -45,9 +45,248 @@ Interested in growing your own phoenix oyster mushrooms? Check out our [Phoenix 
 - Best consumed within **5-7 days** of delivery for optimal flavor and texture.
 
 ## Order Now
-Bring the gourmet experience home with our phoenix oyster mushrooms. Whether you’re cooking up a feast or growing your own, these mushrooms are the perfect choice.
+Bring the gourmet experience home with our phoenix oyster mushrooms. Whether you’re cooking up a feast or growing your own, these mushrooms are the perfect choice. 
 
-**[Add to Cart](#)**
+## **Price is per pound**
+
+<!-- **[Add to Cart](#)** -->
+
+<div id='product-component-1733600770769' class="cart_div"></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'ix11f5-pr.myshopify.com',
+      storefrontAccessToken: 'beb68589731d584d3b5c7362952b2160',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '8662850044092',
+        node: document.getElementById('product-component-1733600770769'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "color": "#000000",
+        ":hover": {
+          "color": "#000000",
+          "background-color": "#00e6d1"
+        },
+        "background-color": "#00ffe8",
+        ":focus": {
+          "background-color": "#00e6d1"
+        },
+        "border-radius": "7px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "color": "#000000",
+        ":hover": {
+          "color": "#000000",
+          "background-color": "#00e6d1"
+        },
+        "background-color": "#00ffe8",
+        ":focus": {
+          "background-color": "#00e6d1"
+        },
+        "border-radius": "7px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        "color": "#000000",
+        ":hover": {
+          "color": "#000000",
+          "background-color": "#00e6d1"
+        },
+        "background-color": "#00ffe8",
+        ":focus": {
+          "background-color": "#00e6d1"
+        },
+        "border-radius": "7px"
+      },
+      "title": {
+        "color": "#ffffff"
+      },
+      "header": {
+        "color": "#ffffff"
+      },
+      "lineItems": {
+        "color": "#ffffff"
+      },
+      "subtotalText": {
+        "color": "#ffffff"
+      },
+      "subtotal": {
+        "color": "#ffffff"
+      },
+      "notice": {
+        "color": "#ffffff"
+      },
+      "currency": {
+        "color": "#ffffff"
+      },
+      "close": {
+        "color": "#ffffff",
+        ":hover": {
+          "color": "#ffffff"
+        }
+      },
+      "empty": {
+        "color": "#ffffff"
+      },
+      "noteDescription": {
+        "color": "#ffffff"
+      },
+      "discountText": {
+        "color": "#ffffff"
+      },
+      "discountIcon": {
+        "fill": "#ffffff"
+      },
+      "discountAmount": {
+        "color": "#ffffff"
+      },
+      "cart": {
+        "background-color": "#767676"
+      },
+      "footer": {
+        "background-color": "#767676"
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "notice": "Local delivery ONLY",
+      "button": "Place Order"
+    },
+    "popup": false
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#00ffe8",
+        ":hover": {
+          "background-color": "#00e6d1"
+        },
+        ":focus": {
+          "background-color": "#00e6d1"
+        }
+      },
+      "count": {
+        "color": "#000000",
+        ":hover": {
+          "color": "#000000"
+        }
+      },
+      "iconPath": {
+        "fill": "#000000"
+      }
+    }
+  },
+  "lineItem": {
+    "styles": {
+      "variantTitle": {
+        "color": "#ffffff"
+      },
+      "title": {
+        "color": "#ffffff"
+      },
+      "price": {
+        "color": "#ffffff"
+      },
+      "fullPrice": {
+        "color": "#ffffff"
+      },
+      "discount": {
+        "color": "#ffffff"
+      },
+      "discountIcon": {
+        "fill": "#ffffff"
+      },
+      "quantity": {
+        "color": "#ffffff"
+      },
+      "quantityIncrement": {
+        "color": "#ffffff",
+        "border-color": "#ffffff"
+      },
+      "quantityDecrement": {
+        "color": "#ffffff",
+        "border-color": "#ffffff"
+      },
+      "quantityInput": {
+        "color": "#ffffff",
+        "border-color": "#ffffff"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
 
 ---
 

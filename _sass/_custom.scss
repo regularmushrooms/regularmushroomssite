@@ -4,9 +4,17 @@
 
 .container {
     text-align: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
 }
 
 .my_list {
     display: inline-block;
-    // text-align: center;
+    text-align: center;
+}
+
+.cart_div {
+    margin: auto;
+    width: 33%;
 }
