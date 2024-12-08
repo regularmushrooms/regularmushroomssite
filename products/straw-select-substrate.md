@@ -47,12 +47,6 @@ Take your mushroom-growing experience to the next level with Straw Select Substr
 - **3 lb Bag** – $14.99  
 - **5 lb Bag** – $19.99  
 
-<!-- **[Add to Cart](#)** -->
-
-<!-- ### Customer Reviews
-> *"The easiest substrate I've ever used. Great yields!"* – Alex R.  
-> *"Perfect for beginners and pros alike."* – Jamie P. -->
-
 <div style="
   overflow: auto;
   display: flex;
@@ -60,7 +54,6 @@ Take your mushroom-growing experience to the next level with Straw Select Substr
   justify-content: flex-end;
   align-items: center;
   width: 259px;
-  background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
   border-radius: 10px;
@@ -77,7 +70,7 @@ Take your mushroom-growing experience to the next level with Straw Select Substr
     line-height: 20px;
     font-weight: 600;
   ">$14.99 - $19.99</p>
-    <a target="_blank" href="https://square.link/u/BSVcHtQD?src=embed" style="
+    <a target="_blank" href="https://square.link/u/t6Sn9l4t?src=embed" style="
     display: inline-block;
     font-size: 18px;
     line-height: 48px;
@@ -88,6 +81,12 @@ Take your mushroom-growing experience to the next level with Straw Select Substr
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 6px;
-  ">Buy now</a>
+  ">Add to Cart</a>
   </div>
 </div>
+
+<!-- **[Add to Cart](#)** -->
+
+<!-- ### Customer Reviews
+> *"The easiest substrate I've ever used. Great yields!"* – Alex R.  
+> *"Perfect for beginners and pros alike."* – Jamie P. -->
