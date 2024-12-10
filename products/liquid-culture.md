@@ -7,13 +7,13 @@ seo_title: "Buy Liquid Mushroom Culture | High-Quality Spore Cultures"
 seo_description: "Shop premium liquid culture for mushroom growing. Sterile and ready-to-use cultures for fast, reliable mycelium growth."
 categories: [Products, Cultures]
 tags: [liquid culture, mushroom cultures, mycelium, mushroom growing]
-link_image_path: /images/liquid-culture426x640.png
-link_image_name: liquid-culture426x640.png
+link_image_path: /images/liquid-culture640x426.png
+link_image_name: liquid-culture640x426.png
 ---
 
 # Liquid Culture
 
-![liquid-culture426x640.png](/images/liquid-culture426x640.png){: .align-center}
+![liquid-culture640x426.png](/images/liquid-culture640x426.png){: .align-center}
 
 **Price**: Starting at $12.99  
 **Size**: 10 mL syringe  

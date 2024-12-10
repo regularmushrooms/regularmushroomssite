@@ -7,6 +7,9 @@
     align-items: center;
     align-content: center;
     align-self: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 .my_list {
@@ -32,4 +35,84 @@
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 6px;   
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap onto the next row */
+    gap: 20px; /* Space between items */
+    justify-content: space-evenly; /* Equal spacing between items */
+}
+
+/* Gallery item styling */
+.gallery-item {
+    flex: 0 1 calc(30% - 20px); /* Smaller entries with 3 per row */
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    background-color: #333131;
+}
+
+.gallery-item:hover {
+    transform: scale(1.05);
+}
+
+/* Image styling */
+.gallery-image {
+    width: 100%;
+    height: auto;
+    padding: 10px; /* Adds spacing within the card */
+}
+
+/* Title styling */
+.gallery-title {
+    margin: 10px 0;
+    font-size: 1em;
+    color: #333;
+}
+
+.gallery-title a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.gallery-title a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .gallery-item {
+        flex: 0 1 calc(45% - 20px); /* 2 items per row on medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .gallery-item {
+        flex: 0 1 calc(100% - 20px); /* 1 item per row on small screens */
+    }
+}
+
+.pagination-link {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #007BFF;
+    transition: background-color 0.2s;
+}
+
+.pagination-link.active {
+    background-color: #007BFF;
+    color: #fff;
+    pointer-events: none;
+}
+
+.pagination-link:hover {
+    background-color: #0056b3;
+    color: #fff;
 }

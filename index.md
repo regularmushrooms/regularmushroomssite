@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Regular Mushrooms"
+paginate: true
 ---
 <div class="container">
 
@@ -9,15 +10,17 @@ title: "Regular Mushrooms"
 </div>
 
 <div class="container">
-
-<h2> Explore our featured products: </h2>
-
-{% assign mushroom_pages = site.pages | where: "categories", "Products" %}
-    {% for page in mushroom_pages %}
-    <!-- <div class="container"> -->
-            <a href="{{ page.url }}"><img src="{{ page.link_image_path}}" alt="{{ page.link_image_name }}" style="width:160px; height:80px"></a>
-            <p><a href="{{ page.url }}"> {{ page.title }} </a></p>
-
-    <!-- </div> -->
-    {% endfor %}
+    <h2>Explore our Featured Products</h2>
+    <div class="gallery">
+        {% assign mushroom_pages = site.pages | where: "categories", "Products" %}
+        {% for page in mushroom_pages %}
+        <div class="gallery-item">
+            <a href="{{ page.url }}">
+                <img src="{{ page.link_image_path }}" alt="{{ page.link_image_name }}" class="gallery-image">
+            </a>
+            <p class="gallery-title"><a href="{{ page.url }}">{{ page.title }}</a></p>
+        </div>
+        {% endfor %}
+    </div>
 </div>
+

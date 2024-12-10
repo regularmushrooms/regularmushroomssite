@@ -105,3 +105,8 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+
+# Custom Stuff
+paginate: 3
+paginate_path: "/page:num"
