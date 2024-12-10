@@ -53,7 +53,6 @@ Take the first step toward successful mushroom cultivation with our Colonized Ag
   justify-content: flex-end;
   align-items: center;
   width: 259px;
-  background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
   border-radius: 10px;

@@ -20,3 +20,16 @@
     color: #ffffff;
     background-color: #2b2f38;
 }
+
+.buy_link {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 48px;
+    height: 48px;
+    color: #ffffff;
+    min-width: 212px;
+    background-color: #006aff;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+    border-radius: 6px;   
+}
