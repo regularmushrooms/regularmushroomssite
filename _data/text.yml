@@ -26,7 +26,7 @@ en: &DEFAULT_EN
   older: "Older"
   back_to_top: "Back to Top"
   search_placeholder_text: "Enter your search term..."
-  powered_by: "Powered by Long Necks and Prosperity"
+  powered_by: "Powered by Mycelium and Curiosity"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
